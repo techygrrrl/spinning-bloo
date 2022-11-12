@@ -1,6 +1,6 @@
-# ferris wheeeeeeeeeel
+# spinning bloo
 
-animated ferris!
+animated blue poo emoji
 
 ## Usage
 
